@@ -1,2 +1,8 @@
-Following is Coffee Sales Dashboard that I developed on MS Excel  
-![image](https://github.com/user-attachments/assets/9d3e615b-2fed-4a8b-b942-7a38909f6b71)
+Following Dashboard was developed on MS Excel using advanced functions like XLOOKUP, INDEXMATCH and Pivot.
+
+![image](https://github.com/user-attachments/assets/d34874cb-fe37-4e4e-a9ea-84b017f5831e)
+
+Results:
+1. United States had the highest sale, 5x more than Ireland
+2. Overall, the total sales follow a zig-zag trend line with a lot of ups and downs
+3. Not all top selling products (top 10) have loyal customers with membership, indicating lack of proportionality
