@@ -6,3 +6,5 @@ Results:
 1. United States had the highest sale, 5x more than Ireland
 2. Overall, the total sales follow a zig-zag trend line with a lot of ups and downs
 3. Not all top selling products (top 10) have loyal customers with membership, indicating lack of proportionality
+
+PS: for an interactive experience, please download the file locally and use filters
