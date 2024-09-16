@@ -1,4 +1,4 @@
-Following Dashboard was developed on MS Excel using advanced functions like XLOOKUP, INDEXMATCH and Pivot.
+Demonstrating advanced MS Excel skills through this dashboard using functions like XLOOKUP, INDEXMATCH and Pivot.
 
 ![image](https://github.com/user-attachments/assets/d34874cb-fe37-4e4e-a9ea-84b017f5831e)
 
