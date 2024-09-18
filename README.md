@@ -1,4 +1,4 @@
-Demonstrating advanced MS Excel skills through this dashboard using functions like XLOOKUP, INDEXMATCH and Pivot.
+Utilized advanced MS Excel functions like XLOOKUP, INDEXMATCH and Pivot and created following dashboard:
 
 ![image](https://github.com/user-attachments/assets/d34874cb-fe37-4e4e-a9ea-84b017f5831e)
 
