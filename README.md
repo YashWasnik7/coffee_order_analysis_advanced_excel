@@ -7,4 +7,4 @@ Results:
 2. Overall, the total sales follow a zig-zag trend line with a lot of ups and downs
 3. Not all top selling products (top 10) have loyal customers with membership, indicating lack of proportionality
 
-PS: for an interactive experience, please download the file locally and use filters
+PS: For an interactive/in-depth analysis , please download the file and use filters
